@@ -1,3 +1,4 @@
 [submodule "portfolio-spring-mvn-psql"]
 	path = portfolio-spring-mvn-psql
 	url = https://github.com/bamare1996/portfolio-spring-mvn-psql.git
+	branch = main
